@@ -1,2 +1,2 @@
 console.log("Test API project is running.");
-console.log("Customer endpoints added.");
+console.log("2 Customer endpoints added.");
