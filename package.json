@@ -1,0 +1,14 @@
+{
+  "name": "semver-test-api",
+  "version": "0.0.0-development",
+  "private": true,
+  "description": "Test project for Semantic Release",
+  "main": "InternalAPI/index.js",
+  "scripts": {
+    "build": "node -e \"console.log('Build successful')\"",
+    "semantic-release": "semantic-release"
+  },
+  "devDependencies": {
+    "semantic-release": "^24.2.9"
+  }
+}
